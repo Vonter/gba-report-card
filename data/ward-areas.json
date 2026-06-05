@@ -1,0 +1,280 @@
+{
+  "BTM Layout": [
+    "BTM Layout",
+    "Gurappanapalya",
+    "Madivala",
+    "Suddagunte Palya"
+  ],
+  "Banashankari": [
+    "Banashankari Temple ward",
+    "Ganesh Mandir ward",
+    "Girinagar",
+    "Katriguppe",
+    "Srinagar",
+    "Vidyapeeta ward"
+  ],
+  "Basavanagudi": [
+    "Basavanagudi",
+    "Hanumanth Nagar",
+    "Jayanagar",
+    "Sunkenahalli",
+    "Vishveshwara Puram"
+  ],
+  "Basaveshwara Nagar": [
+    "Kamakshipalya",
+    "Laggere",
+    "Mahalakshimpuram",
+    "Nandini Layout",
+    "Shakthi Ganapathi Nagar",
+    "Shankar Matt",
+    "Vrisabhavathi Nagar"
+  ],
+  "Begur": [
+    "Arakere",
+    "Begur",
+    "Singasandra"
+  ],
+  "Bellandur": [
+    "Bellanduru"
+  ],
+  "CV Raman Nagar": [
+    "A Narayanapura",
+    "C V Raman Nagar",
+    "HAL Airport",
+    "Vijnana Nagar"
+  ],
+  "Chamrajpet": [
+    "Azad Nagar",
+    "Binnipete",
+    "Chalavadipalya",
+    "Chamrajapet",
+    "Jagajivanaramnagar",
+    "Padarayanapura",
+    "Rayapuram"
+  ],
+  "Chickpete": [
+    "Chickpete",
+    "Cottonpete",
+    "Dharmaraya Swamy Temple",
+    "Gandhinagar",
+    "K R Market",
+    "Okalipuram",
+    "Subhash Nagar"
+  ],
+  "Domlur": [
+    "Agaram",
+    "Domlur",
+    "Jeevanbhima Nagar",
+    "Konena Agrahara"
+  ],
+  "Frazer Town": [
+    "Devara Jeevanahalli",
+    "Kaval Bairasandra",
+    "Kushal Nagar",
+    "Maruthi Seva Nagar",
+    "Muneshwara Nagar",
+    "Pulikeshinagar",
+    "Ramaswamy Palya",
+    "S K Garden",
+    "Sagayarapuram",
+    "Sarvagna Nagar"
+  ],
+  "Gottigere": [
+    "Anjanapura",
+    "Gottigere"
+  ],
+  "HSR Layout": [
+    "Bommanahalli",
+    "HSR Layout",
+    "Hongasandra",
+    "Jakkasandra",
+    "Mangammanapalya"
+  ],
+  "Hebbal": [
+    "Byatarayanapura",
+    "Ganga Nagar",
+    "Hebbala",
+    "Kodigehalli",
+    "Radhakrishna Temple Ward",
+    "Sanjaya Nagar",
+    "Vishwanath Nagenahalli"
+  ],
+  "Hennur": [
+    "Horamavu",
+    "Thanisandra"
+  ],
+  "Indiranagar": [
+    "Hoysala Nagar",
+    "Jogupalya",
+    "New Tippasandara"
+  ],
+  "JP Nagar": [
+    "Bilekhalli",
+    "J P Nagar",
+    "Jaraganahalli",
+    "Konankunte",
+    "Puttenahalli",
+    "Sarakki"
+  ],
+  "Jakkur": [
+    "Jakkuru"
+  ],
+  "Jalahalli": [
+    "Bagalakunte",
+    "Jalahalli",
+    "Mallasandra",
+    "Shettihalli",
+    "T Dasarahalli"
+  ],
+  "Jayanagar": [
+    "Byrasandra",
+    "Jayanagar East",
+    "Karisandra",
+    "Pattabhiram Nagar",
+    "Shakambari Nagar",
+    "Yediyur"
+  ],
+  "KR Puram": [
+    "Basavanapura",
+    "Devasandra",
+    "K R Puram",
+    "Ramamurthy Nagar",
+    "Vijnanapura"
+  ],
+  "Kalyan Nagar": [
+    "Banasavadi",
+    "Benniganahalli",
+    "HBR Layout",
+    "Kacharkanahalli",
+    "Kadugondanahalli",
+    "Kammanahalli",
+    "Lingarajapura",
+    "Nagavara"
+  ],
+  "Kengeri": [
+    "Herohalli",
+    "Jnana Bharathi ward",
+    "Kengeri",
+    "Ullalu"
+  ],
+  "Koramangala": [
+    "Adugodi",
+    "Ejipura",
+    "Koramangala",
+    "Lakkasandra",
+    "Nilasandra",
+    "Vannarpet"
+  ],
+  "Malleshwaram": [
+    "Aramane Nagara",
+    "Dattatreya Temple",
+    "Kadu Malleshwar Ward",
+    "Malleswaram",
+    "Mattikere",
+    "Rajamahal Guttahalli"
+  ],
+  "Marathahalli": [
+    "Dodda Nekkundi",
+    "Marathahalli"
+  ],
+  "Nagarabhavi": [
+    "Kaveripura",
+    "Kottegepalya",
+    "Mudalapalya",
+    "Nagarabhavi",
+    "Nayandahalli"
+  ],
+  "Peenya": [
+    "Chokkasandra",
+    "Dodda Bidarakallu",
+    "Hegganahalli",
+    "Peenya Industrial Area",
+    "Rajagopal Nagar"
+  ],
+  "RR Nagar": [
+    "Hemmigepura",
+    "Rajarajeshwari Nagar"
+  ],
+  "RT Nagar": [
+    "Gangenahalli",
+    "Jayachamarajendra Nagar",
+    "Manorayanapalya"
+  ],
+  "Rajajinagar": [
+    "Agrahara Dasarahalli",
+    "Basaveshwara Nagar",
+    "Dayananda Nagar",
+    "Dr. Raj Kumar Ward",
+    "Gayithri Nagar",
+    "Nagapura",
+    "Prakash Nagar",
+    "Rajaji Nagar",
+    "Shivanagara",
+    "Sriramamandir",
+    "Subramanya Nagar"
+  ],
+  "Shantinagar": [
+    "Hombegowda Nagara",
+    "Shantala Nagar",
+    "Shanthi Nagar",
+    "Siddapura",
+    "Sudham Nagara"
+  ],
+  "Shivaji Nagar": [
+    "Bharathi Nagar",
+    "Halsoor",
+    "Jayamahal",
+    "Sampangiram Nagar",
+    "Shivaji Nagar",
+    "Vasanth Nagar"
+  ],
+  "Uttarahalli": [
+    "Chikkalsandra",
+    "Hosakerehalli",
+    "Kumaraswamy Layout",
+    "Padmanabha Nagar",
+    "Uttarahalli",
+    "Vasanthpura",
+    "Yelchenahalli"
+  ],
+  "Varthur": [
+    "Varthuru"
+  ],
+  "Vidyaranyapura": [
+    "Dodda Bommasandra",
+    "Kuvempu Nagar",
+    "Vidyaranyapura"
+  ],
+  "Vijayanagar": [
+    "Attiguppe",
+    "Bapuji Nagar",
+    "Deepanjali Nagar",
+    "Gali Anjenaya Temple ward",
+    "Govindaraja Nagar",
+    "Hampi Nagar",
+    "Hosahalli",
+    "Kempapura Agrahara",
+    "Marenahalli",
+    "Maruthi Mandir ward",
+    "Vijayanagar"
+  ],
+  "Whitefield": [
+    "Garudachar Playa",
+    "Hagadur",
+    "Hudi",
+    "Kadugodi"
+  ],
+  "Yelahanka": [
+    "Atturu",
+    "Chowdeswari Ward",
+    "Kempegowda Ward",
+    "Yelahanka Satellite Town"
+  ],
+  "Yeshwanthpur": [
+    "HMT Ward",
+    "J P Park",
+    "Lakshmi Devi Nagar",
+    "Marappana Palya",
+    "Yeshwanthpura"
+  ]
+}
