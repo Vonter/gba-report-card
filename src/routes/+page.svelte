@@ -384,7 +384,7 @@
 		else selectWard(pick);
 	}
 
-	const SITE_URL = 'https://urbanuru.in/gba-report-card';
+	const SITE_URL = 'https://gba-report-card.urbanuru.in/';
 
 	$effect(() => {
 		// Invalidate cached image whenever the card changes

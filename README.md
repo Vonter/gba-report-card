@@ -1,6 +1,6 @@
 # gba-report-card
 
-How does your area in Bengaluru perform when it comes to civic grievances? See report cards for roads, garbage and more. Evaluated using citizen-submitted ratings from the Sahaaya app: [https://urbanuru.in/gba-report-card/](https://urbanuru.in/gba-report-card/)
+How does your area in Bengaluru perform when it comes to civic grievances? See report cards for roads, garbage and more. Evaluated using citizen-submitted ratings from the Sahaaya app: [https://gba-report-card.urbanuru.in/](https://gba-report-card.urbanuru.in/)
 
 Data from [bbmp-citizen-grievances](https://github.com/Vonter/bbmp-citizen-grievances). Inspired by [NYC 311 Report Card](https://reports.jehiah.cz/311_report_card/).
 

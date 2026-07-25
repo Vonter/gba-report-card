@@ -6,8 +6,8 @@
 	let keywords =
 		'gba,bbmp,blr,bangalore,bengaluru,ward,report card,civic services,sahaaya,grievance redressal,complaint ratings,road maintenance,solid waste,garbage,street lights,health,trees,veterinary,nagarika,namma bengaluru';
 	let author = 'Vivek Matthew';
-	let image = 'https://urbanuru.in/gba-report-card/sharecard.jpg';
-	let url = 'https://urbanuru.in/gba-report-card';
+	let image = 'https://gba-report-card.urbanuru.in/sharecard.jpg';
+	let url = 'https://gba-report-card.urbanuru.in/';
 	let type = 'website';
 </script>
 
